@@ -9,11 +9,18 @@ Galaxy Workbench for basic sequence manipulation
 
 # Installed tools
 
- * [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2)
- * [FASTQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
- * [deepTools](http://fidelram.github.io/deepTools/)
- * [BWA](http://bio-bwa.sourceforge.net/)
- * [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2)
+ * fasta_compute_length
+ * fasta_merge_files_and_filter_unique_sequences
+ * seq_filter_by_id
+ * seq_rename
+ * seq_select_by_id
+ * fasta_formatter
+ * fasta_nucleotide_changer
+ * fasta_to_tabular
+ * find_subsequences
+ * tabular_to_fasta
+ * fasta_filter_by_length
+ * decoyfasta
 
 # Requirements
 
